@@ -1,1 +1,1 @@
-# c-programing-sockets
+# C-programing-sockets
